@@ -1,2 +1,2 @@
 # youtube downloader
- downloads video from youtube
+ downloads Youtube videos
